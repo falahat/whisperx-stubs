@@ -23,7 +23,7 @@ classifiers = [
     "Typing :: Stubs Only",
 ]
 dependencies = [
-    "whisperx>=3.4.2,<3.5.0"
+    "whisperx-typed"
 ]
 
 [tool.setuptools]
