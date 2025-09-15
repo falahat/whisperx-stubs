@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "whisperx-stubs"
-version = "3.4.6"
+version = "3.4.5.1"
 description = "Type stubs for whisperx"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Auto-generated", email = "stub-generator@example.com"}
+    {name = "Aryan Falahatpisheh", email = "aryanfalahat@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
