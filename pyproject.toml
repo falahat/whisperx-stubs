@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "whisperx-stubs"
-version = "3.4.5"
+version = "3.4.6"
 description = "Type stubs for whisperx"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -23,7 +23,7 @@ classifiers = [
     "Typing :: Stubs Only",
 ]
 dependencies = [
-    "whisperx-typed=3.4.5"
+    "whisperx-typed>=3.4.5"
 ]
 
 [tool.setuptools]
